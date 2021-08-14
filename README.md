@@ -15,7 +15,7 @@
 ## **使い方** 
 
 1. このリポジトリの資源をgit cloneしたノートPCを、TelloにWifi接速する。
-2. **examplesディレクトリ**に移動して、Python3系で、**python3 tello_camera_image_object_motion_window.py**を実行する。
+2. **examplesディレクトリ**に移動して、Python3系で、**python3 motion_arrow_flight_info.py**を実行する。
 
 > % python3 motion_arrow_flight_info.py
 
